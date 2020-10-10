@@ -19,7 +19,7 @@ simple app for sync windows time
 
   - Action Tab
     - press new
-    - browse synctimewn.exe
+    - browse synctimewin.exe
     - press ok
 
   - Condition Tab
